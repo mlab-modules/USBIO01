@@ -1,4 +1,5 @@
-description: null
+description: A high speed USB2.0 IO communication module. It si suitable for fast
+  parallel transfers. It is based on CY7C68013A USB chip.
 github_branch: USBIO01A
 github_repo: USBIO01
 github_url: https://github.com/mlab-modules/USBIO01
