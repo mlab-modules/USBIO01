@@ -3,6 +3,7 @@ github_branch: USBIO01A
 github_repo: USBIO01
 github_url: https://github.com/mlab-modules/USBIO01
 homepage: false
+image_title: doc/img/USBIO01A_top_small.jpg
 images:
 - doc/img/USBIO01A_bottom_small.jpg
 - doc/img/USBIO01A_bottom_big.jpg
